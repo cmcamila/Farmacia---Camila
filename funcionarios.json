@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1",
+      "nome": "Admin",
+      "pin": "v",
+      "email": "v",
+      "administrador": true
+    },
+    {
+      "id": "2",
+      "nome": "Não Admin",
+      "email": "f",
+      "pin": "f",
+      "administrador": false
+    }
+  ]
